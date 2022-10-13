@@ -1,0 +1,11 @@
+@media only screen and (max-width:580px){
+    
+    .container-in{
+        flex-direction: column;
+        align-items: center;
+      
+    }
+   .logo{
+    text-align: center;
+   }
+}

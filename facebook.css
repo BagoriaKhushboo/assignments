@@ -4,12 +4,13 @@
     box-sizing: border-box;
 }
 .container{
+    width: 100%;
     padding-top: 72px;
     padding-bottom: 112px;
     background: #f0f2f5;
 }
 .container-in{
-    width: 980px;
+    max-width: 980px;
     margin: 0 auto;
     display: flex;
     /* justify-content: center;
