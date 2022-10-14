@@ -3,18 +3,16 @@
     padding: 0;
     box-sizing: border-box;
 }
-.container{
-    width: 100%;
+#facebok{
+   
     padding-top: 72px;
     padding-bottom: 112px;
     background: #f0f2f5;
 }
 .container-in{
-    max-width: 980px;
-    margin: 0 auto;
+   
     display: flex;
-    /* justify-content: center;
-    align-items: center; */
+    justify-content: center;
     padding: 20px 0;
 }
 .logo{
